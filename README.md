@@ -13,3 +13,10 @@ I work with:
 -Microsoft HyperText Applications(HTA)
 
 -Structured Query Language(SQL)
+
+Currently Learning:
+
+-Bash Shell Script
+
+-Windows Batch Script
+

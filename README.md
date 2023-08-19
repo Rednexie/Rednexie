@@ -16,9 +16,11 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 ● Bash Shell Scripting
 
-# I am Currently Learning:
+# I am Currently Learning about/trying to get better at:
 
 ● Python
 
 ● Windows Batch Script
+
+● Blue Team Cyber Security
 

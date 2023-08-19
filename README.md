@@ -1,25 +1,24 @@
-Hi, i am Rednexie! A programmer, who creates some full-stack Progressive Web Apps and websites. Also a Cyber Activist working against illegal websites and services.
+Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Progressive Web Apps, applications, Application Programming Interfaces(API) and discord bots. Also a Cyber Activist working against illegal websites and services.
 
-I work with: 
+# I Work With 
 
--Javascript(also Electron.js and Node.js)
+● Node.js(also electron and discord.js)
 
--HTML/JS/CSS
+● HTML/JS/CSS
 
--Microsoft Visual Basic Script(VBS)
+● Microsoft Visual Basic Script(VBS)
 
--Microsoft JScript
+●Microsoft JScript
 
--Microsoft HyperText Applications(HTA)
+●Microsoft HyperText Applications(HTA)
 
--Structured Query Language(SQL)
+●Structured Query Language (SQL)
 
--Bash Shell Script
+●Bash Shell Scripting
 
+# Currently Learning:
 
-Currently Learning:
+●Python
 
--Python
-
--Windows Batch Script
+●Windows Batch Script
 

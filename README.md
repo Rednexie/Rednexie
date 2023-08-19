@@ -8,17 +8,17 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 ● Microsoft Visual Basic Script(VBS)
 
-●Microsoft JScript
+● Microsoft JScript
 
-●Microsoft HyperText Applications(HTA)
+● Microsoft HyperText Applications(HTA)
 
-●Structured Query Language (SQL)
+● Structured Query Language (SQL)
 
-●Bash Shell Scripting
+● Bash Shell Scripting
 
 # Currently Learning:
 
-●Python
+● Python
 
-●Windows Batch Script
+● Windows Batch Script
 

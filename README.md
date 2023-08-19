@@ -16,7 +16,7 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 ● Bash Shell Scripting
 
-# Currently Learning:
+# I am Currently Learning:
 
 ● Python
 

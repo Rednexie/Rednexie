@@ -14,9 +14,12 @@ I work with:
 
 -Structured Query Language(SQL)
 
+-Bash Shell Script
+
+
 Currently Learning:
 
--Bash Shell Script
+-Python
 
 -Windows Batch Script
 

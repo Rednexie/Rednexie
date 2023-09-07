@@ -2,15 +2,15 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 # I Work With 
 
-● Node.js(also electron and discord.js)
+● Node.js (also electron and discord.js)
 
 ● HTML/JS/CSS
 
-● Microsoft Visual Basic Script(VBS)
+● Microsoft Visual Basic Script (VBS)
 
 ● Microsoft JScript
 
-● Microsoft HyperText Applications(HTA)
+● Microsoft HyperText Applications (HTA)
 
 ● Structured Query Language (SQL)
 

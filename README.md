@@ -22,6 +22,8 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 ● Windows Batch Script
 
+● TypeScript
+
 # My Interests:
 
 ● German

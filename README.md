@@ -24,14 +24,6 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 ● TypeScript
 
-# My Interests:
-
-● German
-
-● Networking
-
-● Minecraft
-
 # Projects I am working on:
 
 - Link Shortener and API's

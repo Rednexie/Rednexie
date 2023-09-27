@@ -26,7 +26,7 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 # Projects I am working on:
 
-- Link Shortener and API's
+- Link Shortener and other kind of API's
 
 - Discord/Guilded Bot
 

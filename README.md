@@ -28,7 +28,7 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 - Link Shortener and API's
 
-- Discord Bot
+- Discord/Guilded Bot
 
 - Improvements on mail spammer
 

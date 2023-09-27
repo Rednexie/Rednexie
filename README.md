@@ -1,4 +1,4 @@
-Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Progressive Web Apps, applications, Application Programming Interfaces(API) and discord bots. Also a Cyber Activist, who works against illegal websites and services.
+Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Progressive Web Apps, applications, Application Programming Interfaces(API) and discord/guilded bots. Also a Cyber Activist, who works against illegal websites and services.
 
 # I Use 
 
@@ -11,8 +11,6 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 ● Microsoft JScript
 
 ● Microsoft HyperText Applications (HTA)
-
-● Structured Query Language (SQL)
 
 ● Bash Shell Scripting
 
@@ -28,13 +26,13 @@ Hi, i am Rednexie! A programmer, who loves to create some modules, full-stack Pr
 
 - Link Shortener and other kind of API's
 
-- Discord/Guilded Bot
+- [Discord](https://github.com/Rednexie/discord-template)/[Guilded](https://github.com/Rednexie/guilded-template) Bot Template
 
-- Improvements on mail spammer
+- Improvements on [mail spammer](https://github.com/Rednexie/mail-interface) 
 
-- perma.db (Node.js and Python)
+- [perma.db](https://npmjs.com/perma.db)(Node.js and Python)
 
-- consoled.js v1.0.5
+- [consoled.js](https://npmjs.com/consoled.js) v1.0.5
 
 - Growtopia Incognito(electron app)
 

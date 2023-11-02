@@ -1,4 +1,14 @@
-Hi, i am Rednexie! A programmer, who loves to create libraries, full-stack Progressive Web Apps, applications, Application Programming Interfaces(API) and discord/guilded bots. Also a Cyber Activist, who works against illegal websites and services.
+Hi, I am Rednexie! A programmer and cyber security analyst, who loves to create:
+
+
+- full stack websites
+- progressive web apps(pwa)
+- desktop applications
+- application programming interfaces(api)
+- discord/guilded bots
+
+
+Also a Cyber Activist, who works against illegal websites and services.
 
 # I Use 
 

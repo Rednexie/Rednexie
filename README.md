@@ -1,16 +1,13 @@
 Hi, I am Rednexie! A programmer and cyber security analyst, who loves to create:
 
-
 - full stack websites
 - progressive web apps(pwa)
 - desktop applications
 - application programming interfaces(api)
 - discord/guilded bots
 
+using:
 
-Also a Cyber Activist, who works against illegal websites and services.
-
-# I Use 
 
 ● Node.js (also electron and discord.js)
 
@@ -24,7 +21,11 @@ Also a Cyber Activist, who works against illegal websites and services.
 
 ● Bash Shell Scripting
 
-# I am Currently Learning about/trying to get better at:
+
+
+I am Currently Learning about/trying to get better at:
+
+
 
 ● Python
 
@@ -32,7 +33,11 @@ Also a Cyber Activist, who works against illegal websites and services.
 
 ● TypeScript
 
-# Projects I am working on:
+
+
+ Currently working on:
+
+
 
 - Link Shortener and other kind of API's
 

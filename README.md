@@ -15,11 +15,11 @@ using:
 
 - Microsoft Visual Basic Script (VBS) <img src='https://w7.pngwing.com/pngs/237/332/png-transparent-vbscript-scripting-language-visual-basic-microsoft-analyst-angle-text-rectangle-thumbnail.png' width="20" height="20"></img>
 
-- Microsoft JScript
+- Microsoft JScript <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUOwSKB8D85DlAzfNv_UT0JcdukgYCGUu6JT-BpmGHTGCnDRsTzTgHMzydnPVy3dRRXiQ&usqp=CAU' width="20" height="20"></img>
 
-- Microsoft HyperText Applications (HTA)
+- Microsoft HyperText Applications (HTA) <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUOwSKB8D85DlAzfNv_UT0JcdukgYCGUu6JT-BpmGHTGCnDRsTzTgHMzydnPVy3dRRXiQ&usqp=CAU' width="20" height="20"></img>
 
-- Bash Shell Scripting
+- Bash Shell Scripting <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUOwSKB8D85DlAzfNv_UT0JcdukgYCGUu6JT-BpmGHTGCnDRsTzTgHMzydnPVy3dRRXiQ&usqp=CAU' width="20" height="20"></img>
 
 
 

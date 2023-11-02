@@ -13,7 +13,7 @@ using:
 
 - HTML/JS/CSS  <img src='https://cdn.vectorstock.com/i/preview-1x/25/67/set-three-icons-html-css-javascript-vector-26022567.jpg' width="90" height="30"></img>
 
-- Microsoft Visual Basic Script (VBS)
+- Microsoft Visual Basic Script (VBS) <img src='https://w7.pngwing.com/pngs/237/332/png-transparent-vbscript-scripting-language-visual-basic-microsoft-analyst-angle-text-rectangle-thumbnail.png' width="20" height="20"></img>
 
 - Microsoft JScript
 

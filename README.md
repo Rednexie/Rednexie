@@ -9,7 +9,7 @@ Hi, I am Rednexie! A programmer and cyber security analyst, who loves to create:
 using:
 
 
-- Node.js <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5WV7VpA7O5nDNXRiO9WhuwwGvVHwTc5Nww&usqp=CAU' width="100" height='200'></img> (also electron and discord.js)
+- Node.js <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5WV7VpA7O5nDNXRiO9WhuwwGvVHwTc5Nww&usqp=CAU' width="100" height="100"></img> (also electron and discord.js)
 
 - HTML/JS/CSS
 

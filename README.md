@@ -11,7 +11,7 @@ using:
 
 - Node.js <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5WV7VpA7O5nDNXRiO9WhuwwGvVHwTc5Nww&usqp=CAU' width="15" height="15"></img> (also electron and discord.js)
 
-- HTML/JS/CSS <img src='https://cdn.vectorstock.com/i/preview-1x/25/67/set-three-icons-html-css-javascript-vector-26022567.jpg' width="35" height="15"></img>
+- HTML/JS/CSS <img src='https://cdn.vectorstock.com/i/preview-1x/25/67/set-three-icons-html-css-javascript-vector-26022567.jpg' width="45" height="15"></img>
 
 - Microsoft Visual Basic Script (VBS)
 

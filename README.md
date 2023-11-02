@@ -9,17 +9,17 @@ Hi, I am Rednexie! A programmer and cyber security analyst, who loves to create:
 using:
 
 
-● Node.js (also electron and discord.js)
+- Node.js (also electron and discord.js)
 
-● HTML/JS/CSS
+- HTML/JS/CSS
 
-● Microsoft Visual Basic Script (VBS)
+- Microsoft Visual Basic Script (VBS)
 
-● Microsoft JScript
+- Microsoft JScript
 
-● Microsoft HyperText Applications (HTA)
+- Microsoft HyperText Applications (HTA)
 
-● Bash Shell Scripting
+- Bash Shell Scripting
 
 
 

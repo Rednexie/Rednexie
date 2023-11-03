@@ -15,7 +15,7 @@ using:
 
 - Microsoft Visual Basic Script (VBS) <img src='https://w7.pngwing.com/pngs/237/332/png-transparent-vbscript-scripting-language-visual-basic-microsoft-analyst-angle-text-rectangle-thumbnail.png' width="20" height="20"></img>
 
-- Microsoft JScript <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUOwSKB8D85DlAzfNv_UT0JcdukgYCGUu6JT-BpmGHTGCnDRsTzTgHMzydnPVy3dRRXiQ&usqp=CAU' width="20" height="30"></img>
+- Microsoft JScript <img src='https://cdn.discordapp.com/attachments/1137863741061484594/1169888110872625152/image.png?ex=65570a35&is=65449535&hm=dd2e0ef9b66b82200b5e8bbe0bbb2361728fe9fac32c0c9929a18e7e33ab6a9e&' width="20" height="30"></img>
 
 - Microsoft HyperText Applications (HTA)
 

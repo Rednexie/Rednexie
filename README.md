@@ -2,9 +2,10 @@ Hi, I am Rednexie! A programmer and someone interested in cyber security who lov
 
 - full stack websites
 - progressive web apps(pwa)
-- desktop applications
+- cross-platform desktop applications
 - application programming interfaces(api)
 - discord/guilded bots
+- various tools
 
 using:
 

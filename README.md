@@ -52,6 +52,7 @@ I am Currently Learning about/trying to get better at:
 
 - Growtopia Incognito(electron app)
 
+- Researching and reporting security issues in the websites of turkish organizations
 
 
 # 💻 Tech Stack:

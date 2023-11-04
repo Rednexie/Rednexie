@@ -40,7 +40,7 @@ I am Currently Learning about/trying to get better at:
 
 
 
-- Link Shortener and other kind of API's
+- Link Shortener and other kind of API's (tcp, udp and http)
 
 - [Discord](https://github.com/Rednexie/discord-template)/[Guilded](https://github.com/Rednexie/guilded-template) Bot Template
 

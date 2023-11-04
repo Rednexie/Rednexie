@@ -1,4 +1,4 @@
-Hi, I am Rednexie! A programmer and cyber security analyst, who loves to create:
+Hi, I am Rednexie! A programmer and someone interested in cyber security who loves to create:
 
 - full stack websites
 - progressive web apps(pwa)

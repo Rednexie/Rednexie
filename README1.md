@@ -10,17 +10,17 @@ Hi, I am Rednexie! A programmer and someone interested in cyber security who lov
 using:
 
 
-- Node.js <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_5WV7VpA7O5nDNXRiO9WhuwwGvVHwTc5Nww&usqp=CAU' width="20" height="20"></img> (also electron <img src='https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png' width="20" height="20"></img> and discord.js <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0dzhAZ5lC0HknAS5rztchyPMSHeMoVHXX9MaokIWqA22sp0jEKVqoQHZEOiUTdAZaQSw&usqp=CAU' width="20" height="20"></img>)
+- Node.js (also electron and discord.js)
 
-- HTML/JS/CSS  <img src='https://cdn.vectorstock.com/i/preview-1x/25/67/set-three-icons-html-css-javascript-vector-26022567.jpg' width="90" height="30"></img>
+- HTML/JS/CSS
 
-- Microsoft Visual Basic Script (VBS) <img src='https://w7.pngwing.com/pngs/237/332/png-transparent-vbscript-scripting-language-visual-basic-microsoft-analyst-angle-text-rectangle-thumbnail.png' width="20" height="20"></img>
+- Microsoft Visual Basic Script (VBS)
 
-- Microsoft JScript <img src='https://camo.githubusercontent.com/183ae4a2855e0a8d5734c3abe41ac032195abe16ce711d02641d1542bef16d4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313133373836333734313036313438343539342f313136393838383131303837323632353135322f696d6167652e706e673f65783d36353537306133352669733d363534343935333526686d3d6464326530656639623636623832323030623565386262653062626232333631373238666539666163333263306339393239613138653765333361623661396526' width="20" height="30"></img>
+- Microsoft JScript
 
-- Microsoft HyperText Applications (HTA) <img src='https://camo.githubusercontent.com/df544a82c17cf210de7ba185c0654df82eae3792d13f324fadfa1e83518ca527/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313133373836333734313036313438343539342f313136393838383435363236303938393038392f696d6167652e706e673f65783d36353537306138372669733d363534343935383726686d3d3731383538386437363332356133313934333866343266343666363838323933663262373932666638363431636431633962323137343365353836613632666226' width="20" height="20"></img>
+- Microsoft HyperText Applications (HTA)
 
-- Bash Shell Scripting <img src='https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png' width="20" height="20"></img>
+- Bash Shell Scripting
 
 
 

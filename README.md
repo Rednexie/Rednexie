@@ -7,7 +7,7 @@ Hi, I am Rednexie! A programmer and someone interested in cyber security who lov
 - discord/guilded bots
 - various tools
 
-using:
+mostly using:
 
 
 - Node.js (also electron and discord.js)
@@ -20,20 +20,19 @@ using:
 
 - Microsoft HyperText Applications (HTA)
 
-- Bash Shell Scripting
+- Bash Shell Scripting and Windows Batch
+
+- AutoHotkey 
 
 
 
 I am Currently Learning about/trying to get better at:
 
-
-
 ● Python
-
-● Windows Batch Script
 
 ● TypeScript
 
+● MongoDB
 
 
  Currently working on:

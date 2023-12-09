@@ -23,3 +23,13 @@ mostly using:
 - Bash Shell Scripting and Windows Batch
 
 - AutoHotkey 
+
+and 
+
+- MySQL
+
+- MongoDB
+
+- SQLite
+
+as databases.

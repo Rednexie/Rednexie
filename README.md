@@ -24,7 +24,7 @@ mostly using:
 
 - AutoHotkey 
 
-and 
+with
 
 - MySQL
 

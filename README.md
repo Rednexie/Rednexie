@@ -27,12 +27,3 @@ mostly using:
 
 - Typescript
 
-with
-
-- MySQL
-
-- MongoDB
-
-- SQLite
-
-as databases.

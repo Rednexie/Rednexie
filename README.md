@@ -22,7 +22,9 @@ mostly using:
 
 - Bash Shell Scripting and Windows Batch
 
-- AutoHotkey 
+- AutoHotkey
+
+- Typescript
 
 with
 

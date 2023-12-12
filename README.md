@@ -6,7 +6,7 @@ Hi, I am Rednexie! A programmer and someone interested in cyber security who lov
 - application programming interfaces(api)
 - discord/guilded bots
 - various tools
-- npm modules
+- modules/libraries
 
 mostly using:
 

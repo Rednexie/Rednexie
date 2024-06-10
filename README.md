@@ -15,6 +15,8 @@ mostly using:
 
 - HTML/JS/CSS
 
+- php
+
 - Microsoft Visual Basic Script (VBS)
 
 - Microsoft JScript

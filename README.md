@@ -1,9 +1,12 @@
-Hi, I am Rednexie! A programmer and someone interested in cyber security who loves to create:
+Hi, I am Rednexie! A programmer and someone interested in cyber security. 
+
+
+I love creating:
 
 - full stack websites
-- progressive web apps(pwa)
+- progressive web apps
 - cross-platform desktop applications
-- application programming interfaces(api)
+- application programming interfaces
 - discord/guilded bots
 - various tools
 - modules/libraries
@@ -11,16 +14,11 @@ Hi, I am Rednexie! A programmer and someone interested in cyber security who lov
 mostly using:
 
 - Javascript/TypeScript
-
 - Node/Bun/Deno
-
 - HTML/CSS
-
 - Microsoft VBS/JS/HTA
-
 - Python
-
 - AutoHotkey
-
 - php
+
 

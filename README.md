@@ -10,22 +10,17 @@ Hi, I am Rednexie! A programmer and someone interested in cyber security who lov
 
 mostly using:
 
+- Javascript/TypeScript
 
-- Node.js (also electron and discord.js)
+- Node/Bun/Deno
 
-- HTML/JS/CSS
+- HTML/CSS
 
-- php
+- Microsoft VBS/JS/HTA
 
-- Microsoft Visual Basic Script (VBS)
-
-- Microsoft JScript
-
-- Microsoft HyperText Applications (HTA)
-
-- Bash Shell Scripting and Windows Batch
+- Python
 
 - AutoHotkey
 
-- Typescript
+- php
 

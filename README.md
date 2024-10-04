@@ -14,7 +14,7 @@ I love creating:
 mostly using:
 
 - Javascript/TypeScript
-- Node/Bun/Deno
+- Node/Bun/Deno/CFW
 - HTML/CSS
 - Microsoft VBS/JS/HTA
 - Python

@@ -1,6 +1,9 @@
 Hi, I am Rednexie! A programmer and someone interested in cyber security. 
 
 
+<img src="https://readme-typing-svg.demolab.com/?lines=SOBARİ&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=300&size=22" /></a>
+
+
 I love creating:
 
 - full stack websites

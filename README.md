@@ -13,4 +13,10 @@ I love creating:
 - modules/libraries
 
 mostly using:
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0000ff&width=1000&height=100&lines=Javascript/TypeScript;Node.js/Bun/Deno/Cloudflare%20Workers;HTML/CSS;Microsoft%20VBS/JS/HTA;Python;AutoHotkey;php"/>
+- Javascript/TypeScript
+- Node/Bun/Deno/CFW
+- HTML/CSS
+- Microsoft VBS/JS/HTA
+- Python
+- AutoHotkey
+- php

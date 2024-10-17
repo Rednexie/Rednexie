@@ -1,7 +1,6 @@
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF00&width=500&height=100&lines=Hi,%20I%20am%20Rednexie!; 
- A developer and someone interested in cyber security. " /></a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF00&width=500&height=100&lines=Hi,%20I%20am%20Rednexie!;"/>
 
 I love creating:
 

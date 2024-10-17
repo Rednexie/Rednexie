@@ -21,4 +21,4 @@ mostly using:
 - AutoHotkey
 - php
 
-<img src="">
+<img src="https://raw.githubusercontent.com/Rednexie/Rednexie/refs/heads/main/github-user-contribution.svg">

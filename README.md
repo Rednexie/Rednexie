@@ -13,13 +13,4 @@ I love creating:
 - modules/libraries
 
 mostly using:
-
-- Javascript/TypeScript
-- Node/Bun/Deno/CFW
-- HTML/CSS
-- Microsoft VBS/JS/HTA
-- Python
-- AutoHotkey
-- php
-
-
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FF0000&width=1000&height=100&lines=Javascript/TypeScript;Node/Bun/Deno/CFWorkers;HTML/CSS;Microsoft%20VBS/JS/HTA;Python;AutoHotkey;php"/>

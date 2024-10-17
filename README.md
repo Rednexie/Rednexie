@@ -1,8 +1,7 @@
 Hi, I am Rednexie! A programmer and someone interested in cyber security. 
 
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Cyber Security&font=Fira%20Code&duration=4000&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=300&size=22" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&width=500&height=100&lines=Cyber Security)](https://git.io/typing-svg)
 
 I love creating:
 

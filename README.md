@@ -1,6 +1,8 @@
 
-
+<center>
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=10000&color=00FF00&width=1000&height=100&lines=Hi,%20I%20am%20Rednexie!;A%20developer%20and%20someone%20interested%20in%20cyber%20security.&weight=900"/>
+
+</center>
 
 I love creating:
 

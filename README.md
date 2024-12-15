@@ -1,6 +1,6 @@
 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=10000&color=00FF00&width=2000&height=100&lines=Hi,%20I%20am%20Rednexie!;A%20developer%20and%20someone%20interested%20in%20cyber%20security.&weight=900"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=10000&color=00FF00&width=1200&height=100&lines=Hi,%20I%20am%20Rednexie!;A%20developer%20and%20someone%20interested%20in%20cyber%20security.&weight=900"/>
 
 I love creating:
 
